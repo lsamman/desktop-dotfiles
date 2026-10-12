@@ -1,0 +1,8 @@
+# Optional apps from the desktop (install.sh --apps)
+discord
+obs-studio
+qbittorrent
+steam
+gamescope
+mangohud
+openrazer-daemon

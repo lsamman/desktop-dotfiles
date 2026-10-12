@@ -1,0 +1,4 @@
+# Optional AUR packages (install.sh --apps, needs yay)
+sidra-bin
+xenia-edge-bin
+ckan

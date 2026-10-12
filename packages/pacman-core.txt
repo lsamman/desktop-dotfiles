@@ -1,0 +1,58 @@
+# KDE Plasma desktop + everything the config expects
+plasma-meta
+plasma-desktop
+plasma-workspace
+kwin
+plasma-nm
+plasma-pa
+powerdevil
+bluedevil
+kscreen
+kde-gtk-config
+breeze-gtk
+xdg-desktop-portal-kde
+xdg-desktop-portal
+xdg-utils
+qt5-wayland
+qt6-wayland
+qt6-imageformats
+kimageformats
+# KDE apps
+konsole
+dolphin
+dolphin-plugins
+kate
+ark
+spectacle
+partitionmanager
+kdeconnect
+# audio / bluetooth / network
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+wireplumber
+gst-plugin-pipewire
+libpulse
+bluez
+bluez-utils
+networkmanager
+network-manager-applet
+# printing
+cups
+cups-pk-helper
+system-config-printer
+# fonts
+noto-fonts
+noto-fonts-emoji
+ttf-hack
+# misc
+git
+github-cli
+htop
+vim
+nano
+wget
+unrar
+xsettingsd
+flatpak
