@@ -1,0 +1,18 @@
+# Apple Silicon (Asahi ALARM, aarch64). Installed only when `uname -m` is aarch64.
+# These come from the [asahi-alarm] repo, which is already enabled on a stock Asahi install.
+# Anything not found in your repos is skipped with a warning, so the script never aborts on a name.
+asahi-meta
+asahi-desktop-meta
+asahi-scripts
+asahi-fwextract
+asahi-audio
+alsa-ucm-conf-asahi
+speakersafetyd
+mesa-asahi-edge
+linux-asahi-edge
+linux-asahi-edge-headers
+m1n1
+uboot-asahi
+# run x86 apps (Steam etc.) via FEX + muvm
+muvm
+fex-emu
